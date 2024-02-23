@@ -1,6 +1,6 @@
 Hi, I’m @jess-onic.\
 I'm currently studying towards my BSc (Hons) Computing and IT in software.\
-As of Feb 2024, I am re-learning Javascript.
+
 
 # Education
 [BSc Hons Computing and IT in software](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
