@@ -1,5 +1,5 @@
 Hi, I’m @jess-onic.\
-I'm currently studying towards my BSc (Hons) Computing and IT in software.\
+I'm currently studying towards my BSc (Hons) Computing and IT in software.
 
 
 # Education
