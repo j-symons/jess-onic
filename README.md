@@ -1,4 +1,4 @@
-Hi, I’m @jess-onic.\
+Hi, I’m @j-symons.\
 I'm currently studying towards my BSc (Hons) Computing and IT in software.
 
 
